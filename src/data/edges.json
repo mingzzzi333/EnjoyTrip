@@ -1,0 +1,62 @@
+[
+  {
+    "from": "meiji_shrine",
+    "to": "yoyogi_park",
+    "walkMin": 8,
+    "transitMin": 5
+  },
+  {
+    "from": "yoyogi_park",
+    "to": "shibuya_crossing",
+    "walkMin": 15,
+    "transitMin": 7
+  },
+  {
+    "from": "shibuya_crossing",
+    "to": "akihabara",
+    "walkMin": 60,
+    "transitMin": 20
+  },
+  {
+    "from": "akihabara",
+    "to": "tsukiji",
+    "walkMin": 40,
+    "transitMin": 15
+  },
+  {
+    "from": "tsukiji",
+    "to": "teamlab",
+    "walkMin": 50,
+    "transitMin": 20
+  },
+  {
+    "from": "nezu_shrine",
+    "to": "yanaka",
+    "walkMin": 10,
+    "transitMin": 8
+  },
+  {
+    "from": "meiji_shrine",
+    "to": "nezu_shrine",
+    "walkMin": 45,
+    "transitMin": 22
+  },
+  {
+    "from": "yoyogi_park",
+    "to": "nezu_shrine",
+    "walkMin": 40,
+    "transitMin": 20
+  },
+  {
+    "from": "inokashira",
+    "to": "meiji_shrine",
+    "walkMin": 35,
+    "transitMin": 18
+  },
+  {
+    "from": "shibuya_crossing",
+    "to": "teamlab",
+    "walkMin": 70,
+    "transitMin": 25
+  }
+]
